@@ -128,7 +128,7 @@ const Page = () => {
               {!loading && (
                 <button
                   type="submit"
-                  className="border-2 py-3 uppercase tracking-wider rounded-xl w-60 text-lg lg:text-xl border-green-500 hover:border-green-700"
+                  className="border-2 py-3 uppercase tracking-wider rounded-xl w-full lg:w-60 text-lg lg:text-xl border-green-500 hover:border-green-700"
                 >
                   Extract Text
                 </button>
