@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 const Navbar = () => {
   return (
     <>
@@ -9,9 +11,9 @@ const Navbar = () => {
               ImgText<span className="text-green-500 font-bold">Extract</span>{' '}
             </span>
           </a>
-          <button className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0">
+          <Link className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:bg-gray-700 rounded text-base mt-4 md:mt-0" href='https://github.com/somenath203/Image-Text-Extractor' target="_blank">
             <i className="ri-github-fill text-green-500 text-2xl lg:text-3xl"></i>
-          </button>
+          </Link>
         </div>
       </header>
     </>
