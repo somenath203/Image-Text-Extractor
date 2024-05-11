@@ -1,6 +1,6 @@
 # Image Text Extractor
 
-This is a web app that let user extract text from any image and also the user has the option to copy the extracted text in clipbord as well.
+This is a web app that lets users extract text from any image and also the user has the option to copy the extracted text in the clipboard as well.
 
 ## Tech Stack Used
 
