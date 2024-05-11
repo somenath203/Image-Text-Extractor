@@ -14,4 +14,4 @@ NextJS along with TailwindCSS and daisyUI is used to develop the complete fronte
 
 ## Warning
 
-While this application is able to extract text quite accurately from image, there are occasions when it may produce incorrect text or fail to extract any text at all.
+While this application is able to extract text quite accurately from image, there are occasions when it may produce incorrect text or fail to extract any text from image at all.
