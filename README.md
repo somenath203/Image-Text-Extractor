@@ -4,7 +4,7 @@ This is a web app that lets users extract text from any image and also the user 
 
 ## Tech Stack Used
 
-NextJS along with TailwindCSS and daisyUI is used to develop the complete frontend whereas FastAPI along with pytesseract package is used to extract text from uploaded image as part of backend.
+NextJS along with TailwindCSS and daisyUI is used to develop the complete frontend whereas FastAPI along with pytesseract package is used to extract text from uploaded image as part of the backend.
 
 ## Links
 
