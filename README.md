@@ -14,7 +14,7 @@ NextJS along with TailwindCSS and daisyUI is used to develop the complete fronte
 
 ## NOTE
 
-If you want to deploy the backend FASTAPI with the help of a service that runs on a linux service then, you need to make some changes in both the Dockerfile and the app.py file because `tesseract.exe` is a windows executable for which it will not work on linux servers.
+If you want to deploy the backend FASTAPI with the help of a service that runs on top of linux then, you need to make some changes in both the Dockerfile and the app.py file because `tesseract.exe` is a windows executable for which it will not work on linux servers.
 
 Your Dockerfile should look like this:
 ```Dockerfile
