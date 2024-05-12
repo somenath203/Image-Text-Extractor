@@ -90,7 +90,7 @@ async def extract_text_from_img(imageUploadedByUser: UploadFile = File(...)):
     }
 ```
 
-Now, you are ready to deploy the babckend FastAPI application on linux servers.
+Now, you are ready to deploy the backend FastAPI application on linux servers.
 ## Warning
 
 While this application is able to extract text quite accurately from image, there are occasions when it may produce incorrect text or fail to extract any text from image at all.
