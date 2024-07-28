@@ -1,5 +1,11 @@
 # Image Text Extractor
 
+## Demo video of the whole application
+
+https://github.com/user-attachments/assets/d48dcb33-7d6a-40db-b924-d9649279669f
+
+## introduction
+
 This is a web app that lets users extract text from any image and also the user has the option to copy the extracted text in the clipboard as well.
 
 ## Tech Stack Used
