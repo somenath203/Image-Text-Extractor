@@ -12,12 +12,6 @@ This is a web app that lets users extract text from any image and also the user 
 
 NextJS along with TailwindCSS and daisyUI is used to develop the complete frontend whereas FastAPI along with pytesseract package is used to extract text from uploaded image as part of the backend.
 
-## Links
-
-1) Live Preview of the whole application: https://image-text-generator.vercel.app/
-2) Deployed FastAPI backend API: https://som11-image-text-extract.hf.space/
-3) Swagger Documentation of the FastAPI: https://som11-image-text-extract.hf.space/docs
-
 ## NOTE
 
 If you want to deploy the backend FASTAPI with the help of a service that runs on top of linux then, you need to make some changes in both the Dockerfile and the app.py file because `tesseract.exe` is a windows executable for which it will not work on linux servers.
